@@ -1,5 +1,5 @@
 .Bg {
-    background-color: rgb(61, 57, 57);
+    background-color: #222A34;
     width: 800px;
     height: 500px;
     margin: 0 auto;
@@ -15,19 +15,24 @@
     float: right;
     margin-right: 25px;
     margin-top: 25px;
+    font-family: Aduma;
 }
+
 
 .header_bt {
     float: left;
-    background-color: grey;
+    background-color: #475366;
+    margin-top: 25px;
     border-radius: 10px;
-    margin-top: 10px;
-    height: 30px;
+    height: 20px;
     width: 110px;
     padding-left: 29px;
+    padding-bottom: 5px;
     margin-left: 10px;
     background-image: url('./assets/Upload.png');
     background-repeat: no-repeat;
     background-position: 10px;
     color: white;
+    text-align: inherit;
+    font-family: Aduma;
 }
