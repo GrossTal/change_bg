@@ -36,3 +36,68 @@
     text-align: inherit;
     font-family: Aduma;
 }
+
+.header_st {
+    font-family: Aduma;
+    color: white;
+    position: relative;
+    top: 25px;
+    right: 100px;
+}
+.header {
+    position: relative;
+}
+
+.main_div {
+    margin: inherit;
+    height: 80%;
+    width: 95%;
+}
+
+.left {
+    border: solid white 1px;
+    width: 67%;
+    float: left;
+    height: 80%;
+    position: relative;
+}
+.Right {
+    width: 31%;
+    float: right;
+    height: 80%;
+    position: relative;
+    background-color: #2F3A4B;
+    border-radius: 12px;
+}
+.middle_right_div{
+    height: 74%;
+    margin-top: 19%;
+    background-color: #161b21;
+}
+.div_top{
+    height: 50%;
+}
+.top_div_top_text{
+    color: white;
+    font-family: Aduma;
+    position: relative;
+    text-align: right;
+    font-size: 25px;
+
+}
+.top_div_bottom_text{
+    color: white;
+    font-family: Aduma;
+    text-align: right;
+    font-size: 15px;
+}
+.dw_b{
+    width: 90%;
+    height: 30px;
+    border: 1px solid blue;
+    border-radius: 25px;
+    background-color: transparent;
+    color: blue;
+    font-family: Aduma;
+
+}
